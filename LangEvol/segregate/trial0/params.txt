@@ -1,0 +1,17 @@
+stop time:		100000.0
+pop2 mean loc:		300.0
+pop1 mean loc:		700.0
+pop1 loc sd:		40.0
+mean learn:		0.05
+num agents:		300
+mean talk radius:		50.0
+segregate time:		30000.0
+mean innovation:		0.2
+plot period:		10000.0
+pop0 loc sd:		50.0
+pop2 loc sd:		40.0
+initial y std dev:		40.0
+initial x std dev:		40.0
+random seed:		1237002556.2
+mean speak:		1.0
+pop1 proportion:		0.7

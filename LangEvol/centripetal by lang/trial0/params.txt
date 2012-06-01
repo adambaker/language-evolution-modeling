@@ -1,0 +1,35 @@
+seasoned y std dev:		20.0
+white y std dev:		10.0
+bozal0 x std dev:		100.0
+bozal loc sd:		30.0
+plot period:		1000.0
+seasoned mean loc:		220.0
+white loc sd:		20.0
+bozal mean loc:		300.0
+stop time:		10000.0
+white mean loc:		100.0
+seasoned x std dev:		20.0
+bozal0 y mean:		750.0
+seasoned talk radius:		20.0
+num bozal:		300
+bozal0 y std dev:		100.0
+mean innovation:		0.29999999999999999
+white y mean:		100.0
+num seasoned:		50
+bozal1 x mean:		750.0
+bozal1 y std dev:		100.0
+bozal talk radius:		5.0
+bozal1 y mean:		350.0
+white talk radius:		50.0
+seasoned x mean:		130.0
+bozal0 x mean:		350.0
+mean speak:		0.10000000000000001
+seasoned loc sd:		50.0
+white x std dev:		10.0
+mean learn:		0.02
+num white:		50
+seasoned y mean:		130.0
+bozal1 x std dev:		100.0
+white x mean:		100.0
+lang tolerance:		20.0
+random seed:		1237276402.9230001

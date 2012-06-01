@@ -1,0 +1,34 @@
+slave pop targets:		[300, 101, 893, 1167, 1819, 2514, 3343]
+white y std dev:		10.0
+bozal0 x std dev:		100.0
+bozal loc sd:		30.0
+plot period:		3000.0
+seasoned mean loc:		220.0
+white pop targets:		[150, 44, 75, 84, 109, 122, 145]
+white loc sd:		20.0
+bozal mean loc:		300.0
+stop time:		30000.0
+white mean loc:		100.0
+bozal0 y mean:		750.0
+seasoned talk radius:		20.0
+update period:		300
+bozal0 y std dev:		100.0
+mean innovation:		0.29999999999999999
+white y mean:		100.0
+bozal1 x mean:		750.0
+bozal1 y std dev:		100.0
+proportion seasoned:		0.29999999999999999
+bozal talk radius:		5.0
+bozal1 y mean:		350.0
+white talk radius:		50.0
+bozal0 x mean:		350.0
+pop schedule:		[3000.0, 6000.0, 9000.0, 12000.0, 15000.0, 18000.0, 20000.0]
+mean speak:		1.0
+seasoned loc sd:		50.0
+white x std dev:		10.0
+mean learn:		0.029999999999999999
+num white:		20
+num slaves:		20
+bozal1 x std dev:		100.0
+white x mean:		100.0
+random seed:		1237442359.414
